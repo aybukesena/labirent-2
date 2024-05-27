@@ -9,7 +9,7 @@ Bu proje, bir karakterin bir labirentte yolunu bulmaya çalıştığı ve çık�
 
 - Klavye kontrolleri ile karakteri yönlendirme
 - Başlangıç ve bitiş noktalarını belirleme
-- Labirent içinde rastgele engeller ve yollar oluşturma
+- Oyuncuda el feneri olması
 
 ## Kurulum
 
